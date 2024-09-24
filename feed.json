@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bryce&#x27;s Test Site",
+    "description": "",
+    "home_page_url": "https://b-ricey763.github.io/pubii-test",
+    "feed_url": "https://b-ricey763.github.io/pubii-test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Bryce"
+    },
+    "items": [
+        {
+            "id": "https://b-ricey763.github.io/pubii-test/something-new.html",
+            "url": "https://b-ricey763.github.io/pubii-test/something-new.html",
+            "title": "Something New",
+            "summary": "A cool looking post ",
+            "content_html": "<p>A cool looking post </p>",
+            "author": {
+                "name": "Bryce"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-24T19:45:06-04:00",
+            "date_modified": "2024-09-24T19:45:06-04:00"
+        }
+    ]
+}

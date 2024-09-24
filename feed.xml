@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Bryce&#x27;s Test Site</title>
+    <link href="https://b-ricey763.github.io/pubii-test/feed.xml" rel="self" />
+    <link href="https://b-ricey763.github.io/pubii-test" />
+    <updated>2024-09-24T19:45:06-04:00</updated>
+    <author>
+        <name>Bryce</name>
+    </author>
+    <id>https://b-ricey763.github.io/pubii-test</id>
+
+    <entry>
+        <title>Something New</title>
+        <author>
+            <name>Bryce</name>
+        </author>
+        <link href="https://b-ricey763.github.io/pubii-test/something-new.html"/>
+        <id>https://b-ricey763.github.io/pubii-test/something-new.html</id>
+
+        <updated>2024-09-24T19:45:06-04:00</updated>
+            <summary>
+                <![CDATA[
+                    A cool looking post 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A cool looking post </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
